@@ -2,17 +2,24 @@ body {
     background:black;
 }
 h1 {
-    color:white; 
+    color:pink; 
     text-align: center;
 }
-.strong {
-    color:gray;
+form {
+    margin: 0 auto;
+    width: 250px;
 }
-label {
-    color: rgb(254, 255, 255);
+strong{
+    color: white;
 }
-
+.imagen {
+    text-align: center;
+}
+p {
+    color:white;
+}
 .botonUno{
-    color: #fff;
-    background-color: teal;
+    color: black;
+    background-color: pink;
+    
 }
